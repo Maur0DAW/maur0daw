@@ -5,8 +5,9 @@
 
 - Estudiante de DAW con conocimientos en sql, html, java, php.
 - Nivel de ingles B1 titulado.
-<a href='https://github.com/Maur0DAW/maur0daw/blob/main/Video.mp4' target='_blank'>
-  <img width='0.1%' src='https://img.freepik.com/foto-gratis/formas-geometricas-abstractas-fondo-o-textura_1194-301824.jpg?semt=ais_hybrid&w=740' alt='La oscuridad completa'/>
+  
+<a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' target='_blank'>
+  <img width='0.5%' src='https://img.freepik.com/foto-gratis/formas-geometricas-abstractas-fondo-o-textura_1194-301824.jpg?semt=ais_hybrid&w=740' alt='La oscuridad completa'/>
 </a>
 
 ---
